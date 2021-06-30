@@ -60,7 +60,7 @@ header {
 
 .logo {
   font-family: "Pangolin", cursive;
-  font-size: 50px;
+  font-size: 72px;
   color: #fff;
 }
 
@@ -98,7 +98,6 @@ form {
 
 form label {
   font-weight: bold;
-  font-size: 18px;
   padding-bottom: 5px;
 
 }
